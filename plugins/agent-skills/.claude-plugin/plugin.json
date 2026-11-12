@@ -1,0 +1,7 @@
+{
+  "name": "agent-skills",
+  "description": "Design, review and diagnose LLM agent systems and the tools agents call.",
+  "author": { "name": "Brian Kessel", "url": "https://github.com/brokespace" },
+  "repository": "https://github.com/brokespace/claude-skills",
+  "keywords": ["agents", "tool-design", "diagnosis", "prompting"]
+}

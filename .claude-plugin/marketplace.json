@@ -1,0 +1,20 @@
+{
+  "name": "brokespace-skills",
+  "description": "Brian Kessel's Claude Code skills: agent design and diagnosis, and decision-model design.",
+  "owner": {
+    "name": "Brian Kessel",
+    "url": "https://github.com/brokespace"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./plugins/agent-skills",
+      "description": "Design, review and diagnose LLM agent systems and the tools agents call: agent-system-design, agent-tool-design, agent-diagnosis."
+    },
+    {
+      "name": "decision-models",
+      "source": "./plugins/decision-models",
+      "description": "Design, calibrate and review decision-model calls (noul/choice questions over a minimal state): decision-model-design."
+    }
+  ]
+}

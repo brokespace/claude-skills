@@ -1,0 +1,7 @@
+{
+  "name": "decision-models",
+  "description": "Design, calibrate and review decision-model calls: one criterion, one question, one state.",
+  "author": { "name": "Brian Kessel", "url": "https://github.com/brokespace" },
+  "repository": "https://github.com/brokespace/claude-skills",
+  "keywords": ["decision-models", "classifiers", "llm-judges", "calibration"]
+}
